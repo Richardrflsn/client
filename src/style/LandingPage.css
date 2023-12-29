@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.myBG {
+    height: 100vh;
+}
+
+.intro {
+    height: 400px;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
